@@ -7,7 +7,7 @@
   flex-direction: column;
   background-size: cover;
   justify-content: flex-start;
-  background-image: url("/painelblood/public/playground_assets/pin-on-super-gif-1500w.gif");
+  background-image: url("/public/playground_assets/pin-on-super-gif-1500w.gif");
 }
 .home-text {
   color: rgb(255, 247, 247);
